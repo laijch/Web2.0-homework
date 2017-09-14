@@ -1,0 +1,32 @@
+/**
+Author: LaiJiacheng
+ID: 14331122
+Class: Class B 
+Group: 2
+Desciption: Homework 1 - Recipe, the style sheet for index.html
+*/
+body {
+    font-family: "Century Gothic", Futura, Verdana, sans-serif;
+}
+.head_container {
+    text-align: center;
+    color: #A4A400;
+}
+iframe {
+    border: none;
+}
+.recipe_box {
+    margin: auto;
+    color: #A4A400;
+    border: solid;
+    border-width: thin;
+    width: 850px;
+    height: 380px;
+    padding-left: 20px;
+}
+.recipe_box img {
+    height: 250px;
+}
+.footer {
+    text-align: center;
+}
