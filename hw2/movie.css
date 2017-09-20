@@ -58,6 +58,7 @@ div#section-left {
 div#head-rate {
     background: url(http://my.ss.sysu.edu.cn/wiki/download/attachments/7045968/rottenbackground.png?version=1&modificationDate=1268896385000)
         repeat-x;
+    height: 83px;
 }
 span#rate {
     color: red;
