@@ -15,6 +15,7 @@ body {
 div#banner {
     background: url(http://my.ss.sysu.edu.cn/wiki/download/attachments/7045968/bannerbackground.png?version=1&modificationDate=1268896312000) repeat-x;
     text-align: center;
+    height: 50px;
 }
 h1#title {
     text-align: center;
