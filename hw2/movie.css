@@ -98,6 +98,7 @@ div.review-box {
 }
 .reviewer {
     clear: left;
+    min-height: 30px;
 }
 .reviewer .publication {
     font-style: italic;
